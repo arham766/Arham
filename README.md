@@ -12,6 +12,15 @@
 <img src="https://github-profile-trophy.vercel.app/?username=arham766&theme=darkhub&no-frame=true&row=1&column=6" alt="trophy" />
 </div>
 
+## Table of Contents
+- [About Me](#-about-me)
+- [Tech Stack](#️-tech-stack)
+- [Featured Projects](#-featured-projects)
+- [GitHub Stats](#-github-stats)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
 ## 🚀 About Me
 
 ```javascript
@@ -51,16 +60,22 @@ const arham = {
 - AI-powered career development platform leveraging LayoutLMv2 & BERT
 - Resume analysis and ML-based job matching
 - Cloud-native architecture with Docker & Kubernetes
+<!-- ![TheInternsAI Screenshot](path/to/screenshot.png) -->
+[Live Demo](https://your-demo-link.com) | [Repository](https://github.com/arham766/theinternsai)
 
 ### 🎨 Theme Switcher
 - Comprehensive UI theme management with 100+ customizable themes
 - Real-time preview system with Context API state management
 - Local storage persistence and modular component architecture
+<!-- ![Theme Switcher Screenshot](path/to/screenshot.png) -->
+[Live Demo](https://your-demo-link.com) | [Repository](https://github.com/arham766/theme-switcher)
 
 ### 📊 Scholastica Connect
 - Flask-based organizational management platform
 - Google Workspace integration (Sheets & Drive API)
 - Advanced security with role-based access control
+<!-- ![Scholastica Connect Screenshot](path/to/screenshot.png) -->
+[Live Demo](https://your-demo-link.com) | [Repository](https://github.com/arham766/scholastica-connect)
 
 ## 📈 GitHub Stats
 
@@ -78,3 +93,21 @@ const arham = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=arham766&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
+
+## Contributing
+I love collaborating with others! If you'd like to contribute to any of my projects:
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## License
+My projects are licensed under the MIT License unless otherwise specified. See individual repositories for specific licensing information.
+
+## Contact
+Let's connect! Feel free to reach out through any of these channels:
+- 📧 Email: [marham27@wabash.edu](mailto:marham27@wabash.edu)
+- 💼 LinkedIn: [shahrierislamarham](https://www.linkedin.com/in/shahrierislamarham)
+<!-- -- 🌐 Personal Website: [-website.com](https://-website.com) -->
+<!-- - 🐦 Twitter: [@_handle](https://twitter.com/your_handle) -->
