@@ -1,17 +1,15 @@
 <div align="center">
   
-  # Md Shahrier Islam Arham
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Robotics+Enthusiast;AI+Innovator;Physics+%26+CS+Student)](https://git.io/typing-svg)
-  
-  <p>
-    <a href="mailto:marham27@wabash.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/shahrierislamarham"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  </p>
-</div>
+# Md Shahrier Islam Arham
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arham766&theme=darkhub&no-frame=true&row=1&column=6" alt="trophy" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Robotics+Enthusiast;AI+Innovator;Physics+%26+CS+Student)](https://git.io/typing-svg)
+
+<p>
+  <a href="mailto:marham27@wabash.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shahrierislamarham"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<img src="https://github-profile-trophy.vercel.app/?username=arham766&theme=darkhub&no-frame=true&row=1&column=6" alt="trophy" />
 </div>
 
 ## 🚀 About Me
@@ -35,6 +33,7 @@ const arham = {
 <div align="center">
 
 ### Languages & Tools
+
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -75,6 +74,7 @@ const arham = {
 </div>
 
 ---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=arham766&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
